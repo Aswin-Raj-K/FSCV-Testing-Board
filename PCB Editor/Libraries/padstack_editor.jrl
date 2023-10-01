@@ -1,0 +1,9 @@
+\t (00:00:01) padstack_editor 17.4 S037 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Fri Sep  8 15:26:02 2023
+\t (00:00:01)         Host=DESKTOP-GK40GO9 User=DELL Pid=19620 CPUs=8
+\t (00:00:01) CmdLine= padstack_editor -mpssession DELL -file C:/Users/DELL/AppData/Local/Temp/#Taaaaac20500.tmp -pname T_N160_240_M240 -data C:/Users/DELL/AppData/Local/Temp/#Taaaaaf20500.tmp
+\t (00:00:01) 
+\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:06) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:08) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\t (00:00:09)     Journal end - Fri Sep  8 15:26:11 2023

@@ -1,0 +1,663 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [
+		{
+			"Name" : "-1.65V",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins143110@parts.\\tp.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "C100",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins106493@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "C101",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins106625@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "C104",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins113624@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "C105",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins113640@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "6"
+		},
+		{
+			"Name" : "C108",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins134800@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "C109",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins134964@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "C21",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins27266@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "C22",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins27294@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "C23",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins27320@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "C24",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins27472@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "C25",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins27504@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "C26",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins27548@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "C27",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins27640@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "C28",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins27656@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "C29",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins27692@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "C34",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins51705@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "C35",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins52071@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "C4",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins3911@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "C46",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins49573@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "C47",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins49943@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "C64",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins51771@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "C65",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins52131@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "C66",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins67036@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "C67",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins67140@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "C68",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins66872@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "C69",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins66646@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "C7",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins4877@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "C70",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins66958@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "9"
+		},
+		{
+			"Name" : "C71",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins67190@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "7"
+		},
+		{
+			"Name" : "C72",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins67282@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "12"
+		},
+		{
+			"Name" : "C73",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins67508@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "8"
+		},
+		{
+			"Name" : "C74",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins67594@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "11"
+		},
+		{
+			"Name" : "C75",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins67672@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "6"
+		},
+		{
+			"Name" : "C76",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins67776@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "C77",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins67826@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "7"
+		},
+		{
+			"Name" : "C78",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins67918@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "10"
+		},
+		{
+			"Name" : "C79",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins68144@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "8"
+		},
+		{
+			"Name" : "C8",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins4903@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "C80",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins68230@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "9"
+		},
+		{
+			"Name" : "C81",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins68308@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "C82",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins68412@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "6"
+		},
+		{
+			"Name" : "C83",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins68462@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "7"
+		},
+		{
+			"Name" : "C84",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins81177@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "C85",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins81645@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "C86",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins81765@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "C87",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins82113@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "C88",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins81161@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "C89",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins81601@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "C98",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins92454@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "C99",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins93025@analog.\\c.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "J14",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins3446@parts.\\jtag_87831-1420.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "R10",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins66808@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "R11",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins66614@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "R12",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins67250@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "R13",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins67444@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "R14",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins67886@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "12"
+		},
+		{
+			"Name" : "R15",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins68080@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "11"
+		},
+		{
+			"Name" : "R16",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins93375@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "R17",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins93400@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "R18",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins132753@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "R19",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins132769@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "R4",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins33269@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "R5",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins33299@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "R6",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins33339@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "R7",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins4126@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "R9",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins27488@analog.\\r.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "U10",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins81781@parts.\\tmux6104pwr.normal\\(sch_1)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "U15",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins49255@parts.\\tmux6119dcnr.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "U2",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins106509@parts.\\tmux6104pwr.normal\\(sch_1)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "U25",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins51411@parts.\\tmux6119dcnr.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "U3",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins27134@parts.\\volt_reg_adp7118ardz-3.3.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "U35",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins51513@parts.\\tmux6119dcnr.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "U36",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins66736@parts.\\ada4610-1arjz-r2.normal\\(sch_1)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "U37",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins66908@parts.\\tmux6119dcnr.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "6"
+		},
+		{
+			"Name" : "U38",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins66662@parts.\\tmux6104pwr.normal\\(sch_1)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "U39",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins66974@parts.\\tmux6104pwr.normal\\(sch_1)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "8"
+		},
+		{
+			"Name" : "U4",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins27398@parts.\\ltc1751ems8-5.normal\\(sch_1)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "U40",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins67372@parts.\\ada4610-1arjz-r2.normal\\(sch_1)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "U41",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins67544@parts.\\tmux6119dcnr.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "5"
+		},
+		{
+			"Name" : "U42",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins67298@parts.\\tmux6104pwr.normal\\(sch_1)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "10"
+		},
+		{
+			"Name" : "U43",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins67610@parts.\\tmux6104pwr.normal\\(sch_1)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "9"
+		},
+		{
+			"Name" : "U44",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins68008@parts.\\ada4610-1arjz-r2.normal\\(sch_1)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "U45",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins68180@parts.\\tmux6119dcnr.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "3"
+		},
+		{
+			"Name" : "U46",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins67934@parts.\\tmux6104pwr.normal\\(sch_1)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "U47",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins68246@parts.\\tmux6104pwr.normal\\(sch_1)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "U48",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins376713@parts.\\msp430fr4132ig56.normal\\(sch_1)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "7"
+		},
+		{
+			"Name" : "U5",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins27580@parts.\\ltc1983es6-5.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "U6",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins92278@parts.\\tps78401qdbvrq1.normal\\(sch_1)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "U7",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins134440@parts.\\max1735euk25t.normal\\(sch_1)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "4"
+		},
+		{
+			"Name" : "U8",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins81117@parts.\\tmux4051pwrq1.normal\\(sch_1)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		},
+		{
+			"Name" : "U9",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins81193@parts.\\tmux6104pwr.normal\\(sch_1)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "1"
+		},
+		{
+			"Name" : "X1",
+			"C_PATH" : "@\\fscv board\\.schematic1(sch_1):ins4818@parts.\\crystal.normal\\(chips)",
+			"PropName" : "REUSE_ID",
+			"Logical" : null,
+			"Physical" : "2"
+		}
+	],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [],
+	"Net" : [],
+	"Connection" : []
+}

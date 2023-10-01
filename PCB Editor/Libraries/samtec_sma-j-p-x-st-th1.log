@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SAMTEC_SMA-J-P-X-ST-TH1.dra                   )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Sun Aug 20 13:55:09 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/Projects/PCB/FSCV Board/PCB Editor/Libraries
+    Name      = samtec_sma-j-p-x-st-th1.psm
+    User      = DELL
+    Machine   = DESKTOP-GK40GO9
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

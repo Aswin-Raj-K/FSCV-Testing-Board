@@ -1,0 +1,15 @@
+{ Using PSTWRITER 17.4.0 d001Sep-08-2023 at 11:57:01 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.10" ignored for U2: SCHEMATIC1, PAGE1 (238.76, 124.46). Connecting pin to net "+1.65V".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U9.10" ignored for U9: SCHEMATIC1, PAGE2 (314.96, 208.28). Connecting pin to net "SNFET_SHARED_VS".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U10.10" ignored for U10: SCHEMATIC1, PAGE2 (314.96, 251.46). Connecting pin to net "SNFET_SHARED_VB".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... E:\Projects\PCB\FSCV Board\Netlist\pstchip.dat
+
+Loading... E:\Projects\PCB\FSCV Board\Netlist\pstchip.dat
+
+Loading... E:\Projects\PCB\FSCV Board\Netlist\pstxprt.dat
+
+Loading... E:\Projects\PCB\FSCV Board\Netlist\pstxnet.dat
+packaging the design view...

@@ -1,0 +1,40 @@
+\t (00:00:00) padstack_editor 17.4 S037 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Fri Sep  8 15:22:21 2023
+\t (00:00:00)         Host=DESKTOP-GK40GO9 User=DELL Pid=16780 CPUs=8
+\t (00:00:00) CmdLine= padstack_editor -mpssession DELL -file C:/Users/DELL/AppData/Local/Temp/#Taaaaex19932.tmp -pname C104_H208 -data C:/Users/DELL/AppData/Local/Temp/#Taaaafa19932.tmp
+\t (00:00:00) 
+\d (00:00:25) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:28) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 Pad 0 1
+\d (00:00:28) QtSignal GuidedMaskLayersTab LayersTable cellDoubleClicked 0 Pad 0 1
+\d (00:00:28) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 Pad 0 1
+\d (00:00:31) QtSignal MainWindow Save triggered
+\d (00:00:39) QtSignal pseCheckBrowser Close clicked
+\d (00:00:42) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 Pad 0 1
+\d (00:00:43) QtSignal GuidedMaskLayersTab PadShape CurrentIndexChanged None
+\d (00:00:44) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged
+\d (00:00:48) QtSignal MainWindow UpdateToDesignExit triggered
+\d (00:00:50) QtSignal pseCheckBrowser Close clicked
+\d (00:00:56) QtFillin No
+\d (00:00:57) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 0 Pad
+\d (00:00:57) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 Pad 0 1
+\d (00:01:00) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777248 33554432 false +
+\d (00:01:00) QtSignal 1
+\d (00:01:00) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:01:00) QtSignal 1
+\d (00:01:03) QtSignal GuidedMaskLayersTab PadDiameter editingFinished "2.0800"
+\d (00:01:03) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged
+\d (00:01:03) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 0 Pad
+\d (00:01:04) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 Pad 0 1
+\d (00:01:04) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:01:04) QtSignal 1
+\d (00:01:04) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 67 67108864 false 1 ""
+\d (00:01:04) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 1 Pad
+\d (00:01:04) QtSignal GuidedMaskLayersTab LayersTable cellClicked 1 Pad 1 1
+\d (00:01:05) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:01:05) QtSignal 1
+\d (00:01:05) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 86 67108864 false 1 ""
+\d (00:01:05) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged
+\d (00:01:07) QtSignal MainWindow UpdateToDesignExit triggered
+\d (00:01:10) QtSignal pseCheckBrowser Close clicked
+\d (00:01:11) QtFillin Yes
+\t (00:01:11)     Journal end - Fri Sep  8 15:23:32 2023

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<step-assembly root="id5">
+<product id="id5" name=" STEP translator 7.5 1" shape="id10"/>
+<shape id="id10" unit="mm 0.001000"/>
+</step-assembly>

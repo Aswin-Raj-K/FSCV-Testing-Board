@@ -1,0 +1,14 @@
+#  View replacement method:
+#  Complete
+
+color -globvis off
+color -vis "DRC ERROR CLASS/TRACE"
+color -vis "ETCH/TRACE"
+color -vis "PIN/TRACE"
+color -vis "ROUTE KEEPOUT/TRACE"
+color -vis "VIA CLASS/TRACE"
+color -vis "VIA KEEPOUT/TRACE"
+color -vis "ANTI ETCH/TRACE"
+color -vis "BOUNDARY/TRACE"
+color -vis "CONSTRAINT REGION/TRACE"
+color -vis "CAVITY/TRACE"

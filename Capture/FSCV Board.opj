@@ -1,0 +1,272 @@
+(ExpressProject "FSCV Board"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S037 (4108587)  [5/20/2023]-[09/08/23]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\library\parts.olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "E:\Projects\PCB\FSCV Board\Netlist")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\fscv board.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (RootChangedForceReNetlist "x")
+    (PSPICE_Regenerate_Netlist_Flag "FALSE")
+    (Display_Online_DRC_Results "FALSE")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_View_Output "TRUE")
+    (DRC_View_Output_Type "2")
+    (DRC_Preserved_Waived "FALSE")
+    (RUN_Online_Rules "TRUE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Check_Single_Node_Nets_Online "TRUE")
+    (DRC_Check_No_Driving_Source_Online "FALSE")
+    (DRC_Check_Duplicate_NetNames_Online "TRUE")
+    (DRC_Check_Off-Page_Connectors_Online "FALSE")
+    (DRC_Check_Ports_Online "FALSE")
+    (DRC_Check_Unconnected_Nets_Online "FALSE")
+    (DRC_Check_Floating_Pins_Online "FALSE")
+    (DRC_Run_Electrical_Reports "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Run_Physical_Rules "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility_Online "FALSE")
+    (DRC_Check_PCB_Footprint_Property_Online "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync_Online "FALSE")
+    (DRC_Check_Incorrect_PinGroup_Assignment_Online "TRUE")
+    (DRC_Check_Missing_Pin_Numbers_Online "TRUE")
+    (DRC_Check_Device_With_No_Pins_Online "FALSE")
+    (DRC_Check_Power_Ground_Short_Online "FALSE")
+    (DRC_Check_Name_Prop_For_HierBlocks_Online "FALSE")
+    (DRC_Run_Physical_Reports "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Run_Custom_Rules "FALSE")
+    (DRC_Report_File "E:\PROJECTS\PCB\FSCV BOARD\CAPTURE\FSCV BOARD.DRC")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" ".\allegro\fscv board.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE"))
+  (Folder "Layout")
+  (Folder "Outputs"
+    (File ".\fscv board-pspicefiles\schematic2\schematic2.net"
+      (Type "Report"))
+    (File ".\fscv board.drc"
+      (Type "Report"))
+    (File "..\netlist\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File "..\netlist\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File "..\netlist\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (MPSSessionName "DELL")
+  (PartMRUSelector
+    (MSP430FR4132IG56
+      (FullPartName "MSP430FR4132IG56.Normal")
+      (LibraryName "E:\PROJECTS\PCB\FSCV BOARD\CAPTURE\LIBRARY\PARTS.OLB")
+      (DeviceIndex "0"))
+    (SMA-J-P-X-ST-TH1
+      (FullPartName "SMA-J-P-X-ST-TH1.Normal")
+      (LibraryName "E:\PROJECTS\PCB\FSCV BOARD\CAPTURE\LIBRARY\PARTS.OLB")
+      (DeviceIndex "0"))
+    (Switch_1P2T_MSS-102559-14A-D
+      (FullPartName "Switch_1P2T_MSS-102559-14A-D.Normal")
+      (LibraryName "E:\PROJECTS\PCB\FSCV BOARD\CAPTURE\LIBRARY\PARTS.OLB")
+      (DeviceIndex "0"))
+    (TP
+      (FullPartName "TP.Normal")
+      (LibraryName "E:\PROJECTS\PCB\FSCV BOARD\CAPTURE\LIBRARY\PARTS.OLB")
+      (DeviceIndex "0"))
+    (Connec-10
+      (FullPartName "Connec-10.Normal")
+      (LibraryName "E:\PROJECTS\PCB\FSCV BOARD\CAPTURE\LIBRARY\PARTS.OLB")
+      (DeviceIndex "0"))
+    (Connec-7
+      (FullPartName "Connec-7.Normal")
+      (LibraryName "E:\PROJECTS\PCB\FSCV BOARD\CAPTURE\LIBRARY\PARTS.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "E:\CADENCE\ORCADANDALLEGRO\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (TPS78401QDBVRQ1
+      (FullPartName "TPS78401QDBVRQ1.Normal")
+      (LibraryName "E:\PROJECTS\PCB\FSCV BOARD\CAPTURE\LIBRARY\PARTS.OLB")
+      (DeviceIndex "0"))
+    (Edge_conn_76291-0226
+      (FullPartName "Edge_conn_76291-0226.Normal")
+      (LibraryName "E:\PROJECTS\PCB\FSCV BOARD\CAPTURE\LIBRARY\PARTS.OLB")
+      (DeviceIndex "0"))
+    (TMUX4051PWRQ1
+      (FullPartName "TMUX4051PWRQ1.Normal")
+      (LibraryName "E:\PROJECTS\PCB\FSCV BOARD\CAPTURE\LIBRARY\PARTS.OLB")
+      (DeviceIndex "0"))
+    (TMUX6104PWR
+      (FullPartName "TMUX6104PWR.Normal")
+      (LibraryName "E:\PROJECTS\PCB\FSCV BOARD\CAPTURE\LIBRARY\PARTS.OLB")
+      (DeviceIndex "0"))
+    (ADA4610-1ARJZ-R2
+      (FullPartName "ADA4610-1ARJZ-R2.Normal")
+      (LibraryName "E:\PROJECTS\PCB\FSCV BOARD\CAPTURE\LIBRARY\PARTS.OLB")
+      (DeviceIndex "0"))
+    (Connec-8
+      (FullPartName "Connec-8.Normal")
+      (LibraryName "E:\PROJECTS\PCB\FSCV BOARD\CAPTURE\LIBRARY\PARTS.OLB")
+      (DeviceIndex "0"))
+    (Connec-6
+      (FullPartName "Connec-6.Normal")
+      (LibraryName "E:\PROJECTS\PCB\FSCV BOARD\CAPTURE\LIBRARY\PARTS.OLB")
+      (DeviceIndex "0"))
+    (Connec-2
+      (FullPartName "Connec-2.Normal")
+      (LibraryName "E:\PROJECTS\PCB\FSCV BOARD\CAPTURE\LIBRARY\PARTS.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName
+         "E:\CADENCE\ORCADANDALLEGRO\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (TMUX6119DCNR
+      (FullPartName "TMUX6119DCNR.Normal")
+      (LibraryName "E:\PROJECTS\PCB\FSCV BOARD\CAPTURE\LIBRARY\PARTS.OLB")
+      (DeviceIndex "0"))
+    (LTC1983ES6-5
+      (FullPartName "LTC1983ES6-5.Normal")
+      (LibraryName "E:\PROJECTS\PCB\FSCV BOARD\CAPTURE\LIBRARY\PARTS.OLB")
+      (DeviceIndex "0"))
+    (LTC1751EMS8-5
+      (FullPartName "LTC1751EMS8-5.Normal")
+      (LibraryName "E:\PROJECTS\PCB\FSCV BOARD\CAPTURE\LIBRARY\PARTS.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-R
+      (LibraryName
+         "E:\CADENCE\ORCADANDALLEGRO\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VDC
+      (FullPartName "VDC.Normal")
+      (LibraryName
+         "E:\CADENCE\ORCADANDALLEGRO\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (Crystal
+      (FullPartName "Crystal.Normal")
+      (LibraryName "E:\PROJECTS\PCB\FSCV BOARD\CAPTURE\LIBRARY\PARTS.OLB")
+      (DeviceIndex "0"))
+    (JTAG_87831-1420
+      (FullPartName "JTAG_87831-1420.Normal")
+      (LibraryName "E:\PROJECTS\PCB\FSCV BOARD\CAPTURE\LIBRARY\PARTS.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "E:\CADENCE\ORCADANDALLEGRO\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (Volt_Reg_ADP7118ARDZ-3.3
+      (FullPartName "Volt_Reg_ADP7118ARDZ-3.3.Normal")
+      (LibraryName "E:\PROJECTS\PCB\FSCV BOARD\CAPTURE\LIBRARY\PARTS.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "e:\projects\pcb\fscv board\capture\fscv board.dsn")
+      (Path "Design Resources"
+         "e:\projects\pcb\fscv board\capture\fscv board.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "e:\projects\pcb\fscv board\capture\fscv board.dsn" "SCHEMATIC1"
+         "PAGE1")
+      (Select "Design Resources"
+         "e:\projects\pcb\fscv board\capture\fscv board.dsn" "SCHEMATIC1"
+         "PAGE2")
+      (Select "Design Resources"
+         "e:\projects\pcb\fscv board\capture\fscv board.dsn" "SCHEMATIC1"
+         "PAGE3"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 609"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1403 24 627")
+        (Scroll "1784 2281")
+        (Zoom "232")
+        (Occurrence "/"))
+      (Path "E:\PROJECTS\PCB\FSCV BOARD\CAPTURE\FSCV BOARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1403 24 627")
+        (Scroll "1927 1525")
+        (Zoom "160")
+        (Occurrence "/"))
+      (Path "E:\PROJECTS\PCB\FSCV BOARD\CAPTURE\FSCV BOARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE3"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1403 24 627")
+        (Scroll "1697 1769")
+        (Zoom "240")
+        (Occurrence "/"))
+      (Path "E:\PROJECTS\PCB\FSCV BOARD\CAPTURE\FSCV BOARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE2")))
+  (ISPCBBASICLICENSE "false"))

@@ -1,0 +1,81 @@
+Fri Sep  8 12:33:46 2023				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Fri Sep  8 12:33:46 2023
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : FSCV_V5.brd                                   )
+(    Software Version : 17.4S037                                      )
+(    Date/Time        : Fri Sep  8 12:33:47 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Fri Sep  8 12:33:47 2023				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'E:/Projects/PCB/FSCV Board/PCB Editor/FSCV_V5.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'NO'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'NO'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+Symbol list file                       = 'C:/Users/DELL/AppData/Local/Temp/#Taaaaam19932.tmp'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           E:/Cadence/OrcadAndAllegro/share/local/pcb/symbols 
+           E:/Cadence/OrcadAndAllegro/share/pcb/pcb_lib/symbols 
+           E:/Cadence/OrcadAndAllegro/share/pcb/allegrolib/symbols 
+           E:/Projects/PCB/FSCV Board/PCB Editor/Libraries 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           E:/Cadence/OrcadAndAllegro/share/local/pcb/padstacks 
+           E:/Cadence/OrcadAndAllegro/share/pcb/pcb_lib/symbols 
+           E:/Cadence/OrcadAndAllegro/share/pcb/allegrolib/symbols 
+           E:/Projects/PCB/FSCV Board/PCB Editor/Libraries 
+
+
+------ Symbol Refresh Messages ------
+
+'SHDR14W64P254_2X7_2540X905X920P'  symbol refreshed successfully.
+
+
+------ Updating padstacks referring to the refreshed shapes and flash symbols.  ------
+
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 1 out 1
+    Design updated.
+

@@ -1,0 +1,23 @@
+\t (00:00:16) allegro 17.4 S037 Windows SPB 64-bit Edition
+\t (00:00:16)     Journal start - Sat Sep 30 15:01:11 2023
+\t (00:00:16)         Host=DESKTOP-GK40GO9 User=DELL Pid=7800 CPUs=8
+\t (00:00:16) CmdLine= E:\Cadence\OrcadAndAllegro\tools\bin\allegro.exe
+\t (00:00:16) 
+   (00:00:18) Loading axlcore.cxt 
+\t (00:00:21) Opening existing design...
+\i (00:00:22) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "FSCV_V5"
+\d (00:00:22) Design opened: E:/Projects/PCB/FSCV Board/PCB Editor/FSCV_V5.brd
+\i (00:00:23) trapsize 2765
+\i (00:00:23) trapsize 2839
+\i (00:00:23) trapsize 2765
+\i (00:00:24) trapsize 3494
+\i (00:00:24) trapsize 3494
+\i (00:00:25) placementedit 
+\i (00:00:47) zoom fit 
+\i (00:00:47) trapsize 6665
+\i (00:01:58) open 
+\i (00:02:15) fillin "E:/Projects/PCB/Discrete TIA Board/PCB Editor/TIA_Board2.brd"
+\i (00:02:15) cd "E:/Projects/PCB/Discrete TIA Board/PCB Editor"
+\t (00:02:15) Opening existing design...
+\i (00:02:15) trapsize 11418
+\t (00:02:15)     Journal end - Sat Sep 30 15:03:10 2023

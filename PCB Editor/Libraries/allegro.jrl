@@ -1,0 +1,43 @@
+\t (00:00:01) allegro 17.4 S037 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Fri Sep  8 15:21:19 2023
+\t (00:00:01)         Host=DESKTOP-GK40GO9 User=DELL Pid=19728 CPUs=8
+\t (00:00:01) CmdLine= e:\cadence\orcadandallegro\tools\bin\allegro.exe E:\Projects\PCB\FSCV Board\PCB Editor\Libraries\762910226.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\i (00:00:01) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged 762910226
+\d (00:00:01) Design opened: E:/Projects/PCB/FSCV Board/PCB Editor/Libraries/762910226.dra
+\i (00:00:01) trapsize 25795
+\i (00:00:01) trapsize 26920
+\i (00:00:02) trapsize 28149
+\i (00:00:02) trapsize 26920
+\i (00:00:02) trapsize 30690
+\i (00:00:02) trapsize 31940
+\i (00:00:02) trapsize 31940
+\i (00:00:08) padeditdb 
+\i (00:06:07) exit 
+\t (00:06:10)     Journal end - Fri Sep  8 15:27:28 2023
+00:00:03) trapsize 1108
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in -2.8276 1.8661
+\i (00:00:03) trapsize 554
+\i (00:00:03) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -2.5950 1.7000
+\i (00:00:04) trapsize 1108
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 1.1272 -0.3606
+\i (00:00:05) trapsize 554
+\i (00:00:07) move 
+\t (00:00:07) Select element(s) to move.
+\i (00:00:13) padeditdb 
+\i (00:00:14) setwindow form.mini
+\i (00:00:14) FORM mini padlist T_N160_240_M240 
+\i (00:00:14) FORMDBLCLK mini padlist T_N160_240_M240 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) exit 
+\e (00:00:26) Do you want to save the changes you made to SAMTEC_SMA-J-P-X-ST-TH1.dra?
+\i (00:00:28) fillin no 
+\t (00:00:30)     Journal end - Fri Sep  8 15:26:16 2023

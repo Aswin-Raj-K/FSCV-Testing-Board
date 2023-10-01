@@ -1,0 +1,1910 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.4.0 d001Sep-08-2023 at 11:57:02 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='FSCV BOARD';
+ POST_TIME='May 19 2023 23:44:21';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ -1.65V 'TP_KEYSTONE_5000_5000':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS143110@PARTS.TP.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins143110@parts.\tp.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins143110@parts.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ -5V 'TP_KEYSTONE_5000_5000':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS143120@PARTS.TP.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins143120@parts.\tp.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins143120@parts.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 1.65V 'TP_KEYSTONE_5000_5000':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS143100@PARTS.TP.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins143100@parts.\tp.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins143100@parts.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 3.3V 'TP_KEYSTONE_5000_5000':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS143140@PARTS.TP.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins143140@parts.\tp.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins143140@parts.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 5V 'TP_KEYSTONE_5000_5000':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS143130@PARTS.TP.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins143130@parts.\tp.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins143130@parts.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C100 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS106493@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins106493@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins106493@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C101 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS106625@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins106625@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins106625@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C104 'C_CAP0805_10U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS113624@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins113624@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins113624@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C105 'C_CAP0805_100N':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS113640@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins113640@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins113640@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C108 'C_CAP0805_1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS134800@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins134800@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins134800@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C109 'C_CAP0805_1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS134964@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins134964@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins134964@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS49639@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins49639@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins49639@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS50003@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins50003@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins50003@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS50683@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins50683@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins50683@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS51047@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins51047@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins51047@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS51727@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins51727@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins51727@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS52091@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins52091@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins52091@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'C_CAP0805_2.2U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS27266@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins27266@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins27266@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'C_CAP0805_2.2U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS27294@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins27294@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins27294@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'C_CAP0805_2.2U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS27320@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins27320@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins27320@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'C_CAP0805_10U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS27472@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins27472@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins27472@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'C_CAP0805_10U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS27504@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins27504@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins27504@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'C_CAP0805_1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS27548@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins27548@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins27548@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'C_CAP0805_10U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS27640@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins27640@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins27640@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'C_CAP0805_10U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS27656@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins27656@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins27656@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'C_CAP0805_1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS27692@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins27692@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins27692@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS49617@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins49617@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins49617@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS49983@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins49983@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins49983@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS50661@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins50661@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins50661@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS51027@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins51027@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins51027@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS51705@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins51705@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins51705@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS52071@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins52071@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins52071@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS52593@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins52593@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins52593@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS52773@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins52773@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins52773@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS49595@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins49595@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins49595@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C39 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS49963@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins49963@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins49963@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_CAP0805_1N':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS3911@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins3911@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins3911@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C40 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS50639@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins50639@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins50639@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C41 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS51007@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins51007@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins51007@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C42 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS51683@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins51683@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins51683@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C43 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS52051@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins52051@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins52051@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C44 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS52571@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins52571@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins52571@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C45 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS52753@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins52753@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins52753@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C46 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS49573@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins49573@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins49573@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C47 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS49943@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins49943@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins49943@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C48 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS50617@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins50617@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins50617@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C49 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS50987@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins50987@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins50987@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C50 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS51661@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins51661@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins51661@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C51 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS52031@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins52031@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins52031@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C52 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS52549@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins52549@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins52549@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C53 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS52733@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins52733@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins52733@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C54 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS49661@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins49661@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins49661@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C55 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS50023@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins50023@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins50023@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C56 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS50705@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins50705@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins50705@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C57 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS51067@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins51067@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins51067@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C58 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS51749@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins51749@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins51749@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C59 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS52111@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins52111@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins52111@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C60 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS49683@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins49683@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins49683@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C61 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS50043@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins50043@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins50043@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C62 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS50727@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins50727@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins50727@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C63 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS51087@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins51087@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins51087@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C64 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS51771@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins51771@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins51771@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C65 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS52131@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins52131@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins52131@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C66 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS67036@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins67036@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins67036@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C67 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS67140@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins67140@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins67140@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C68 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS66872@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins66872@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins66872@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C69 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS66646@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins66646@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins66646@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'C_CAP0805_12P':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS4877@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins4877@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins4877@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C70 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS66958@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins66958@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins66958@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C71 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS67190@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins67190@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins67190@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C72 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS67282@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins67282@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins67282@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C73 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS67508@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins67508@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins67508@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C74 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS67594@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins67594@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins67594@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C75 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS67672@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins67672@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins67672@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C76 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS67776@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins67776@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins67776@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C77 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS67826@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins67826@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins67826@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C78 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS67918@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins67918@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins67918@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C79 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS68144@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins68144@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins68144@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'C_CAP0805_12P':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS4903@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins4903@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins4903@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C80 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS68230@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins68230@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins68230@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C81 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS68308@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins68308@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins68308@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C82 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS68412@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins68412@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins68412@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C83 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS68462@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins68462@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins68462@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C84 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS81177@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins81177@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins81177@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C85 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS81645@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins81645@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins81645@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C86 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS81765@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins81765@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins81765@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C87 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS82113@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins82113@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins82113@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C88 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS81161@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins81161@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins81161@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C89 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS81601@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins81601@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins81601@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C90 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS81351@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins81351@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins81351@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C91 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS81565@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins81565@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins81565@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C92 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS81993@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins81993@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins81993@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C93 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS82149@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins82149@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins82149@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C94 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS81373@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins81373@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins81373@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C95 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS81585@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins81585@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins81585@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C96 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS82015@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins82015@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins82015@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C97 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS82169@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins82169@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins82169@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C98 'C_CAP0805_10U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS92454@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins92454@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins92454@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C99 'C_CAP0805_10U':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS93025@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins93025@analog.\c.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins93025@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IREF_REXT_12 'TP_TE_4-103327-3_5000':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS143376@PARTS.TP.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins143376@parts.\tp.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins143376@parts.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IREF_REXT_56 'TP_TE_4-103327-3_5000':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS398587@PARTS.TP.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins398587@parts.\tp.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins398587@parts.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IREF_REXT_D 'TP_TE_4-103327-3_5000':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS398613@PARTS.TP.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins398613@parts.\tp.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins398613@parts.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CONNEC-4_SAMTEC_TFM-104-01-L-S-WT_CONNEC-4':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS31628@PARTS.CONNEC-4.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins31628@parts.\connec-4.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins31628@parts.\connec-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J10 'CONNEC-7_SAMTEC_TFM-107-01-S-S-WT_CONNEC-7':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS104303@PARTS.CONNEC-7.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins104303@parts.\connec-7.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins104303@parts.\connec-7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J11 'CONNEC-10_SAMTEC_TFM-110-01-X-S_CONNEC-10':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS105377@PARTS.CONNEC-10.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins105377@parts.\connec-10.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins105377@parts.\connec-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J12 'CONNEC-7_SAMTEC_TFM-107-01-S-S-WT_CONNEC-7':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS104017@PARTS.CONNEC-7.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins104017@parts.\connec-7.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins104017@parts.\connec-7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J13 'EDGE_CONN_76291-0226_762910226_76291-0226':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS84694@PARTS.EDGE_CONN_76291-0226.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins84694@parts.\edge_conn_76291-0226.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins84694@parts.\edge_conn_76291-0226.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J14 'JTAG_87831-1420_SHDR14W64P254_2X7_2540X905X920P_JTAG':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS3446@PARTS.JTAG_87831-1420.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins3446@parts.\jtag_87831-1420.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins3446@parts.\jtag_87831-1420.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J15 'POWER_JACK_PJ-002AH-SMT-TR_CUI_PJ-002AH-SMT-TR_PJ-002AH-SMT-TR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS27110@PARTS.POWER_JACK_PJ-002AH-SMT-TR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins27110@parts.\power_jack_pj-002ah-smt-tr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins27110@parts.\power_jack_pj-002ah-smt-tr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J16 'SMA-J-P-X-ST-TH1_SAMTEC_SMA-J-P-X-ST-TH1_SMA-J-P-X-ST-TH1':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS368195@PARTS.SMA-J-P-X-ST-TH1.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins368195@parts.\sma-j-p-x-st-th1.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins368195@parts.\sma-j-p-x-st-th1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J17 'SMA-J-P-X-ST-TH1_SAMTEC_SMA-J-P-X-ST-TH1_SMA-J-P-X-ST-TH1':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS368268@PARTS.SMA-J-P-X-ST-TH1.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins368268@parts.\sma-j-p-x-st-th1.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins368268@parts.\sma-j-p-x-st-th1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J18 'SMA-J-P-X-ST-TH1_SAMTEC_SMA-J-P-X-ST-TH1_SMA-J-P-X-ST-TH1':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS368340@PARTS.SMA-J-P-X-ST-TH1.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins368340@parts.\sma-j-p-x-st-th1.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins368340@parts.\sma-j-p-x-st-th1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J19 'SMA-J-P-X-ST-TH1_SAMTEC_SMA-J-P-X-ST-TH1_SMA-J-P-X-ST-TH1':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS368412@PARTS.SMA-J-P-X-ST-TH1.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins368412@parts.\sma-j-p-x-st-th1.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins368412@parts.\sma-j-p-x-st-th1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J20 'SMA-J-P-X-ST-TH1_SAMTEC_SMA-J-P-X-ST-TH1_SMA-J-P-X-ST-TH1':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS368518@PARTS.SMA-J-P-X-ST-TH1.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins368518@parts.\sma-j-p-x-st-th1.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins368518@parts.\sma-j-p-x-st-th1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J21 'SMA-J-P-X-ST-TH1_SAMTEC_SMA-J-P-X-ST-TH1_SMA-J-P-X-ST-TH1':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS368540@PARTS.SMA-J-P-X-ST-TH1.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins368540@parts.\sma-j-p-x-st-th1.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins368540@parts.\sma-j-p-x-st-th1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'CONNEC-7_SAMTEC_TFM-107-01-S-S-WT_CONNEC-7':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS103880@PARTS.CONNEC-7.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins103880@parts.\connec-7.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins103880@parts.\connec-7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'CONNEC-7_SAMTEC_TFM-107-01-S-S-WT_CONNEC-7':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS104160@PARTS.CONNEC-7.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins104160@parts.\connec-7.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins104160@parts.\connec-7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'CONNEC-7_SAMTEC_TFM-107-01-S-S-WT_CONNEC-7':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS104446@PARTS.CONNEC-7.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins104446@parts.\connec-7.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins104446@parts.\connec-7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J8 'CONNEC-4_SAMTEC_TFM-104-01-L-S-WT_CONNEC-4':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS31852@PARTS.CONNEC-4.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins31852@parts.\connec-4.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins31852@parts.\connec-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J9 'CONNEC-4_SAMTEC_TFM-104-01-L-S-WT_CONNEC-4':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS266104@PARTS.CONNEC-4.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins266104@parts.\connec-4.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins266104@parts.\connec-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_RES0805_100K':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS66808@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins66808@analog.\r.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins66808@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_RES0805_100K':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS66614@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins66614@analog.\r.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins66614@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_RES0805_100K':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS67250@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins67250@analog.\r.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins67250@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_RES0805_100K':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS67444@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins67444@analog.\r.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins67444@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_RES0805_100K':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS67886@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins67886@analog.\r.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins67886@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_RES0805_100K':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS68080@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins68080@analog.\r.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins68080@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_RES0805_180K':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS93375@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins93375@analog.\r.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins93375@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_RES0805_480K':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS93400@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins93400@analog.\r.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins93400@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_RES0805_100K':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS132753@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins132753@analog.\r.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins132753@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_RES0805_32K':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS132769@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins132769@analog.\r.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins132769@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_CAP0805_100K':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS33269@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins33269@analog.\r.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins33269@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_CAP0805_100K':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS33299@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins33299@analog.\r.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins33299@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_CAP0805_100K':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS33339@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins33339@analog.\r.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins33339@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_RES0805_47K':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS4126@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins4126@analog.\r.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins4126@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_RES0805_100K':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS27488@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins27488@analog.\r.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins27488@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SWITCH_1P2T_MSS-102559-14A-D_SW_MSS-102559-14A-D_MSS-102559-14A-D':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS208287@PARTS.SWITCH_1P2T_MSS-102559-14A-D.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins208287@parts.\switch_1p2t_mss-102559-14a-d.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins208287@parts.\switch_1p2t_mss-102559-14a-d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T_VRPS_12_INT 'TP_TE_4-103327-3_5000':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS149142@PARTS.TP.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins149142@parts.\tp.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins149142@parts.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T_VRPS_56_INT 'TP_TE_4-103327-3_5000':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS149167@PARTS.TP.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins149167@parts.\tp.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins149167@parts.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T_VRPS_D_INT 'TP_TE_4-103327-3_5000':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS149191@PARTS.TP.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins149191@parts.\tp.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins149191@parts.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'TMUX6104PWR_PW0014A_N_TMUX6104PW':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS81781@PARTS.TMUX6104PWR.NORMAL(SCH_1)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins81781@parts.\tmux6104pwr.normal\(sch_1)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins81781@parts.\tmux6104pwr.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS81049@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins81049@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins81049@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U12 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS81841@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins81841@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins81841@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U13 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS81083@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins81083@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins81083@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U14 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS81875@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins81875@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins81875@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U15 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS49255@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins49255@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins49255@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U16 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS50299@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins50299@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins50299@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U17 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS51343@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins51343@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins51343@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U18 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS52387@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins52387@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins52387@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U19 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS49289@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins49289@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins49289@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'TMUX6104PWR_PW0014A_N_TMUX6104PW':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS106509@PARTS.TMUX6104PWR.NORMAL(SCH_1)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins106509@parts.\tmux6104pwr.normal\(sch_1)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins106509@parts.\tmux6104pwr.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U20 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS50333@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins50333@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins50333@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U21 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS51377@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins51377@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins51377@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U22 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS52421@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins52421@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins52421@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U23 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS49323@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins49323@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins49323@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U24 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS50367@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins50367@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins50367@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U25 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS51411@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins51411@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins51411@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U26 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS52455@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins52455@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins52455@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U27 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS49357@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins49357@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins49357@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U28 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS50401@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins50401@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins50401@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U29 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS51445@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins51445@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins51445@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'VOLT_REG_ADP7118ARDZ-3.3_RD-8-1_ADI_ADP7118ARDZ-3.3':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS27134@PARTS.VOLT_REG_ADP7118ARDZ-3.3.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins27134@parts.\volt_reg_adp7118ardz-3.3.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins27134@parts.\volt_reg_adp7118ardz-3.3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U30 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS49391@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins49391@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins49391@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U31 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS50435@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins50435@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins50435@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U32 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS51479@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins51479@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins51479@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U33 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS49425@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins49425@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins49425@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U34 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS50469@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins50469@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins50469@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U35 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS51513@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins51513@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins51513@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U36 'ADA4610-1ARJZ-R2_R_8_ADI_ADA4610-1':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS66736@PARTS.ADA4610-1ARJZ-R2.NORMAL(SCH_1)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins66736@parts.\ada4610-1arjz-r2.normal\(sch_1)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins66736@parts.\ada4610-1arjz-r2.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U37 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS66908@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins66908@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins66908@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U38 'TMUX6104PWR_PW0014A_N_TMUX6104PW':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS66662@PARTS.TMUX6104PWR.NORMAL(SCH_1)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins66662@parts.\tmux6104pwr.normal\(sch_1)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins66662@parts.\tmux6104pwr.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U39 'TMUX6104PWR_PW0014A_N_TMUX6104PW':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS66974@PARTS.TMUX6104PWR.NORMAL(SCH_1)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins66974@parts.\tmux6104pwr.normal\(sch_1)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins66974@parts.\tmux6104pwr.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'LTC1751EMS8-5_MSOP-8_MS_LIT_LTC1751':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS27398@PARTS.LTC1751EMS8-5.NORMAL(SCH_1)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins27398@parts.\ltc1751ems8-5.normal\(sch_1)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins27398@parts.\ltc1751ems8-5.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U40 'ADA4610-1ARJZ-R2_R_8_ADI_ADA4610-1':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS67372@PARTS.ADA4610-1ARJZ-R2.NORMAL(SCH_1)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins67372@parts.\ada4610-1arjz-r2.normal\(sch_1)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins67372@parts.\ada4610-1arjz-r2.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U41 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS67544@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins67544@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins67544@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U42 'TMUX6104PWR_PW0014A_N_TMUX6104PW':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS67298@PARTS.TMUX6104PWR.NORMAL(SCH_1)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins67298@parts.\tmux6104pwr.normal\(sch_1)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins67298@parts.\tmux6104pwr.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U43 'TMUX6104PWR_PW0014A_N_TMUX6104PW':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS67610@PARTS.TMUX6104PWR.NORMAL(SCH_1)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins67610@parts.\tmux6104pwr.normal\(sch_1)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins67610@parts.\tmux6104pwr.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U44 'ADA4610-1ARJZ-R2_R_8_ADI_ADA4610-1':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS68008@PARTS.ADA4610-1ARJZ-R2.NORMAL(SCH_1)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins68008@parts.\ada4610-1arjz-r2.normal\(sch_1)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins68008@parts.\ada4610-1arjz-r2.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U45 'TMUX6119DCNR_SOT65P280X145-8N_TMUX6119DCNR':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS68180@PARTS.TMUX6119DCNR.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins68180@parts.\tmux6119dcnr.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins68180@parts.\tmux6119dcnr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U46 'TMUX6104PWR_PW0014A_N_TMUX6104PW':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS67934@PARTS.TMUX6104PWR.NORMAL(SCH_1)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins67934@parts.\tmux6104pwr.normal\(sch_1)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins67934@parts.\tmux6104pwr.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U47 'TMUX6104PWR_PW0014A_N_TMUX6104PW':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS68246@PARTS.TMUX6104PWR.NORMAL(SCH_1)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins68246@parts.\tmux6104pwr.normal\(sch_1)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins68246@parts.\tmux6104pwr.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U48 'MSP430FR4132IG56_DGG56_TEX_MSP430FR4132IG56':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS376713@PARTS.MSP430FR4132IG56.NORMAL(SCH_1)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins376713@parts.\msp430fr4132ig56.normal\(sch_1)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins376713@parts.\msp430fr4132ig56.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'LTC1983ES6-5_SOT95P280X100-6N_LTC1983':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS27580@PARTS.LTC1983ES6-5.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins27580@parts.\ltc1983es6-5.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins27580@parts.\ltc1983es6-5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'TPS78401QDBVRQ1_DBV0005A_IPC_A_TPS784-Q1DBV':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS92278@PARTS.TPS78401QDBVRQ1.NORMAL(SCH_1)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins92278@parts.\tps78401qdbvrq1.normal\(sch_1)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins92278@parts.\tps78401qdbvrq1.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'MAX1735EUK25T_21-0057F_MXM_MAX1735':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS134440@PARTS.MAX1735EUK25T.NORMAL(SCH_1)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins134440@parts.\max1735euk25t.normal\(sch_1)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins134440@parts.\max1735euk25t.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'TMUX4051PWRQ1_TSSOP16_PW_TEX_TMUX4051-Q1_PWDYY':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS81117@PARTS.TMUX4051PWRQ1.NORMAL(SCH_1)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins81117@parts.\tmux4051pwrq1.normal\(sch_1)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins81117@parts.\tmux4051pwrq1.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'TMUX6104PWR_PW0014A_N_TMUX6104PW':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS81193@PARTS.TMUX6104PWR.NORMAL(SCH_1)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins81193@parts.\tmux6104pwr.normal\(sch_1)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins81193@parts.\tmux6104pwr.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VR3 '3314J-1-754E_TRIM_3314J-1-754E_3314J-1-754E':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS126931@PARTS.3314J-1-754E.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins126931@parts.\3314j-1-754e.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins126931@parts.\3314j-1-754e.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VR4 '3314J-1-754E_TRIM_3314J-1-754E_3314J-1-754E':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS126949@PARTS.3314J-1-754E.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins126949@parts.\3314j-1-754e.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins126949@parts.\3314j-1-754e.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VR5 '3314J-1-754E_TRIM_3314J-1-754E_3314J-1-754E':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS126967@PARTS.3314J-1-754E.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins126967@parts.\3314j-1-754e.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins126967@parts.\3314j-1-754e.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X1 'CRYSTAL_XTAL_KA-A3_EPS_CRYSTAL':;
+
+SECTION_NUMBER 1
+ '@FSCV BOARD.SCHEMATIC1(SCH_1):INS4818@PARTS.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@\fscv board\.schematic1(sch_1):ins4818@parts.\crystal.normal\(chips)',
+ P_PATH='@\fscv board\.schematic1(sch_1):page1_ins4818@parts.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

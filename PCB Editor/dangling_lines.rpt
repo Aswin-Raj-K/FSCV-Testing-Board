@@ -1,0 +1,305 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dangling Line, Via and Antenna Report                            )
+(                                                                     )
+(    Drawing          : FSCV_V5.brd                                   )
+(    Software Version : 17.4S037                                      )
+(    Date/Time        : Tue Sep 12 12:19:18 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Report methodology:
+  - Dangling lines have at least one end not connected.
+  - Dangling vias have one or no connection
+      - Plus are not a test, thieving or netshort property via.
+  - Antenna vias do not have connections on their start and end layers.
+      - Plus they are not a thieving vias.
+      - Optionally, VOLTAGE nets, testvias and through vias can be suppressed with
+        the environment variable report_antennavia.
+      - Section may be suppressed by variable report_noantennavia.
+  - Not part of the current partition.
+  - To suppress items in dangle report add the OK_DANGLE property to the via
+    or connect line.
+
+<< Dangling Lines >>  - Location marked with a star (*) is dangling.
+  Net                 Layer                  Length       Location
+  ------------------------------------------------------------------------------------------
+  SEL3                 TOP                   0.2400      (251.5550 231.4750) to *(251.7950 231.4750)
+  +5V                  TRACE                 0.0150      (284.2800 159.1700) to *(284.2800 159.1850)
+  +5V                  TOP                   0.0250      (252.4400 185.0500) to *(252.4650 185.0500)
+  Not a Net            BOTTOM                0.1414     *(244.3750 142.2400) to *(244.4750 142.1400)
+
+
+<< Dangling Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  SEL2_0               CONTROL_VIA_1_4      (221.8400 156.0570) TOP/BOTTOM 
+  SEL2_1               CONTROL_VIA_1_4      (227.7400 156.0570) TOP/BOTTOM 
+  SEL16_1              CONTROL_VIA_1_4      (270.9200 180.8220) TOP/BOTTOM 
+  SEL16_0              CONTROL_VIA_1_4      (265.0200 180.8220) TOP/BOTTOM 
+
+
+<< Antenna Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  RST                  ANALOG_VIA_1_4       (219.0750 203.8350) TOP/BOTTOM 
+  IREF_REXT_12         ANALOG_VIA_1_4       (277.4950 143.5100) TOP/BOTTOM 
+  TEST                 ANALOG_VIA_1_4       (218.4400 204.4700) TOP/BOTTOM 
+  SEL2_0               CONTROL_VIA_1_4      (221.8400 156.0570) TOP/BOTTOM 
+  SEL2_1               CONTROL_VIA_1_4      (227.7400 156.0570) TOP/BOTTOM 
+  TMS                  ANALOG_VIA_1_4       (217.1700 208.2800) TOP/BOTTOM 
+  3.3V                 ANALOG_VIA_1_4       (222.7200 213.9950) TOP/BOTTOM 
+  3.3V                 ANALOG_VIA_1_4       (222.8850 220.9800) TOP/BOTTOM 
+  3.3V                 ANALOG_VIA_1_4       (220.7000 215.1500) TOP/BOTTOM 
+  3.3V                 ANALOG_VIA_1_4       (221.3650 210.6199) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (312.7000 214.3050) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (279.6800 195.8900) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (279.6800 186.3850) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (248.8950 193.9050) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (279.6800 176.8800) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (279.6800 167.3750) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (279.6800 157.8700) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (226.3400 165.4300) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (265.7100 187.6350) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (261.9000 207.9550) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (248.8950 184.4000) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (296.8250 155.2500) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (248.8950 174.8950) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (248.8950 165.3900) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (226.3400 184.4400) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (248.8950 155.8850) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (237.7700 155.8850) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (248.8950 203.4100) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (237.7700 174.8950) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (237.7700 165.3900) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (226.3400 174.9350) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (302.8950 136.4700) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (219.7100 156.5350) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (229.8700 156.5350) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (222.7751 193.0400) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (211.6400 219.0750) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (223.4400 217.1700) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (229.5721 220.7600) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (235.1820 218.0000) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (238.4200 204.5675) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (238.3950 199.7400) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (219.4985 197.8400) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (234.6411 196.2200) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (232.3348 197.3959) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (233.0500 190.3100) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (222.2550 190.0400) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (328.2950 151.4550) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (328.2950 143.8350) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (318.1350 143.8350) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (313.4250 146.3600) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (318.1350 151.4550) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (303.4250 140.5400) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (304.1800 170.1750) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (308.2500 169.6450) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (298.3600 180.1750) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (300.8850 195.0450) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (301.8450 183.7000) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (294.2250 183.7000) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (293.2650 195.0450) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (272.4150 181.6100) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (262.8900 181.3000) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (277.2700 204.2750) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (292.5100 211.6400) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (302.6700 211.6400) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (302.6700 219.2600) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (292.5100 219.2600) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (287.8000 214.1650) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (277.8000 208.3450) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (224.3200 213.9950) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (218.5250 215.0000) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (233.3750 205.7400) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (221.8650 208.4618) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (276.0290 232.3100) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (261.0569 224.8220) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (262.7869 221.6150) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (270.6500 224.5850) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (262.7869 231.7750) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (245.5000 230.1750) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (238.1750 232.5000) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (230.0000 232.5000) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (221.6750 232.5000) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (211.9150 238.1380) TOP/BOTTOM 
+  GND                  ANALOG_VIA_1_4       (205.8150 238.1380) TOP/BOTTOM 
+  IREF_IBX_56          ANALOG_VIA_1_4       (261.1700 152.5850) TOP/BOTTOM 
+  IREF_IBX_12          ANALOG_VIA_1_4       (267.9700 146.6850) TOP/BOTTOM 
+  IREF_IBX_D           ANALOG_VIA_1_4       (261.6200 142.2400) TOP/BOTTOM 
+  IREF_IBX_D           ANALOG_VIA_1_4       (269.2400 143.5100) TOP/BOTTOM 
+  SEL16_1              CONTROL_VIA_1_4      (270.9200 180.8220) TOP/BOTTOM 
+  SEL16_0              CONTROL_VIA_1_4      (265.0200 180.8220) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (241.3000 154.3050) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (241.3150 163.8300) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (241.3150 173.5200) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (252.4400 154.3050) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (252.4400 164.0150) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (252.4400 173.5200) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (252.4400 183.0250) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (252.4400 192.5300) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (252.4400 201.2950) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (265.4450 206.5800) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (234.6411 192.7000) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (218.5250 153.9750) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (229.8850 163.8300) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (229.8850 173.5600) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (229.8850 183.0650) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (304.4950 133.9100) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (300.3700 153.8750) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (282.5750 166.0000) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (283.2250 156.4950) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (316.9500 141.2750) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (316.9500 148.8950) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (307.3232 141.5450) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (282.5750 175.5050) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (269.2550 186.2600) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (282.5750 185.0100) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (262.8900 177.7800) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (315.5950 153.0350) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (291.3250 209.0800) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (295.2750 183.5150) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (303.4450 183.7000) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (303.1750 174.0732) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (310.8100 171.2450) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (291.3250 216.7000) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (316.2450 212.9300) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (228.7330 228.9550) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (228.3871 218.2000) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (259.2669 231.7750) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (250.0270 229.5250) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (236.9080 228.9550) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (276.1020 231.0100) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (280.3362 208.6940) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (278.8700 201.7150) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (282.5750 194.5150) TOP/BOTTOM 
+  -5V                  ANALOG_VIA_1_4       (219.1150 230.9000) TOP/BOTTOM 
+  VRPS_56              ANALOG_VIA_1_4       (298.4500 139.0650) TOP/BOTTOM 
+  HPF_OUT_BUF          ANALOG_VIA_1_4       (271.1450 146.0500) TOP/BOTTOM 
+  SNFET_5_VS           ANALOG_VIA_1_4       (273.0500 147.9550) TOP/BOTTOM 
+  SNFET_5_VS           ANALOG_VIA_1_4       (243.2050 147.9550) TOP/BOTTOM 
+  T_VRPS_M_D           ANALOG_VIA_1_4       (281.3050 143.5100) TOP/BOTTOM 
+  DIFF_NFET_2_SHARED_VD ANALOG_VIA_1_4       (258.4450 145.4150) TOP/BOTTOM 
+  DIFF_NFET_2_VSN      ANALOG_VIA_1_4       (254.0000 144.1450) TOP/BOTTOM 
+  TIA_M_OUT_BUF        ANALOG_VIA_1_4       (271.7800 143.5100) TOP/BOTTOM 
+  DIFF_NFET_1_VSN      ANALOG_VIA_1_4       (257.1750 144.7800) TOP/BOTTOM 
+  VRPS_D               ANALOG_VIA_1_4       (272.2800 142.8750) TOP/BOTTOM 
+  BOTTOM_PLANE         ANALOG_VIA_1_4       (269.1725 145.3475) TOP/BOTTOM 
+  SENSOR_D             ANALOG_VIA_1_4       (271.1450 145.3475) TOP/BOTTOM 
+  DIFF_NFET_1_SHARED_VB ANALOG_VIA_1_4       (253.3922 146.7121) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (231.3400 166.0800) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (231.3400 175.5850) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (243.0850 181.9700) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (231.3400 185.0900) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (245.1100 166.0400) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (242.7700 156.5350) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (244.8800 175.5450) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (270.7100 188.2850) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (264.7950 196.8500) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (261.6200 196.8500) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (268.6250 196.8500) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (253.8950 156.5350) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (253.8950 166.0400) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (253.8950 175.5450) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (253.8950 185.0500) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (266.9000 208.6050) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (253.8950 204.0600) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (253.8950 194.5550) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (274.8350 160.3800) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (266.5800 167.3650) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (253.3650 153.6700) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (228.6000 197.3959) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (284.4800 148.5900) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (301.8250 155.9000) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (284.6800 158.5200) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (284.6800 168.0250) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (284.6800 177.5300) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (284.6800 187.0350) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (284.6800 196.5400) TOP/BOTTOM 
+  -1.65V               ANALOG_VIA_1_4       (317.7000 214.9550) TOP/BOTTOM 
+  SENSOR_5             ANALOG_VIA_1_4       (224.1550 144.7800) TOP/BOTTOM 
+  CH_OUTPUT_5          ANALOG_VIA_1_4       (228.6000 144.1450) TOP/BOTTOM 
+  DIFF_NFET_1_VSP      ANALOG_VIA_1_4       (258.4450 143.5100) TOP/BOTTOM 
+  +1.65V               ANALOG_VIA_1_4       (284.7530 185.7350) TOP/BOTTOM 
+  +1.65V               ANALOG_VIA_1_4       (284.6800 176.2300) TOP/BOTTOM 
+  +1.65V               ANALOG_VIA_1_4       (284.6800 166.7250) TOP/BOTTOM 
+  +1.65V               ANALOG_VIA_1_4       (301.8250 154.6000) TOP/BOTTOM 
+  +1.65V               ANALOG_VIA_1_4       (284.6800 157.2200) TOP/BOTTOM 
+  +1.65V               ANALOG_VIA_1_4       (317.7000 213.6550) TOP/BOTTOM 
+  +1.65V               ANALOG_VIA_1_4       (284.6800 195.2400) TOP/BOTTOM 
+  +1.65V               ANALOG_VIA_1_4       (216.6449 195.5800) TOP/BOTTOM 
+  +1.65V               ANALOG_VIA_1_4       (272.4150 177.1650) TOP/BOTTOM 
+  +1.65V               ANALOG_VIA_1_4       (271.7650 186.0550) TOP/BOTTOM 
+  +1.65V               ANALOG_VIA_1_4       (253.8950 193.2550) TOP/BOTTOM 
+  +1.65V               ANALOG_VIA_1_4       (253.8950 183.7500) TOP/BOTTOM 
+  +1.65V               ANALOG_VIA_1_4       (253.8950 174.2450) TOP/BOTTOM 
+  +1.65V               ANALOG_VIA_1_4       (253.8950 155.2350) TOP/BOTTOM 
+  +1.65V               ANALOG_VIA_1_4       (253.8950 164.7400) TOP/BOTTOM 
+  +1.65V               ANALOG_VIA_1_4       (253.4950 202.7600) TOP/BOTTOM 
+  +1.65V               ANALOG_VIA_1_4       (266.9000 207.3050) TOP/BOTTOM 
+  +1.65V               ANALOG_VIA_1_4       (231.3400 164.7800) TOP/BOTTOM 
+  +1.65V               ANALOG_VIA_1_4       (231.3400 174.2850) TOP/BOTTOM 
+  +1.65V               ANALOG_VIA_1_4       (231.3400 183.7900) TOP/BOTTOM 
+  +1.65V               ANALOG_VIA_1_4       (242.7700 155.2350) TOP/BOTTOM 
+  +1.65V               ANALOG_VIA_1_4       (242.7700 164.7400) TOP/BOTTOM 
+  +1.65V               ANALOG_VIA_1_4       (242.7700 174.2450) TOP/BOTTOM 
+  TCK                  ANALOG_VIA_1_4       (215.2650 206.3750) TOP/BOTTOM 
+  TDI                  ANALOG_VIA_1_4       (217.8650 207.6450) TOP/BOTTOM 
+  TDO                  ANALOG_VIA_1_4       (219.0750 207.6450) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (232.4850 230.9000) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (231.1400 153.6700) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (284.2800 159.1700) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (300.3700 157.4800) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (284.2800 168.6750) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (284.2800 178.1800) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (284.2800 197.1900) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (284.2800 187.6850) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (295.8250 196.2300) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (303.4450 196.2300) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (294.9950 188.1650) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (302.6150 188.1650) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (317.3000 215.6050) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (295.7170 217.5300) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (303.8550 216.7000) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (303.8550 209.0800) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (295.7900 209.9100) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (283.8288 211.8900) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (280.8150 206.2650) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (300.6350 176.2768) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (306.3330 173.1900) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (306.4400 138.3870) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (309.5268 144.0850) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (321.3420 142.1050) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (329.4800 141.2750) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (329.4800 148.8950) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (321.3420 149.7250) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (241.3150 157.8020) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (252.4400 177.1650) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (252.4400 186.6900) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (252.4400 196.2150) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (252.4400 167.6400) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (252.4400 158.1150) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (241.3150 177.1650) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (241.9700 167.6400) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (253.4950 204.7100) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (266.5000 209.2550) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (261.2000 220.0400) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (269.0500 227.1326) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (261.0569 228.5680) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (244.4750 202.7400) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (230.9400 166.7300) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (230.9400 176.2350) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (230.9400 185.7400) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (270.3100 188.9350) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (274.9550 178.7400) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (266.1700 179.5700) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (224.7900 230.5050) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (240.6600 230.9000) TOP/BOTTOM 
+  +5V                  ANALOG_VIA_1_4       (250.0270 231.4750) TOP/BOTTOM 
+
+<< Summary >>
+  Total dangling lines:       4
+  Total dangling vias:        4
+  Total antenna vias:       255
