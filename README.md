@@ -12,7 +12,7 @@ This repository contains the PCB design files for an IC testing board designed f
   - 3rd Layer: Ground Plane
   - Bottom Layer: Analog Signals
 
-![Alt Text](Full_Design.png)
+![Alt Text](Figures/Full_Design.png)
 
 ## Features
 
@@ -27,8 +27,8 @@ This repository contains the PCB design files for an IC testing board designed f
 - **Minimized User Intervention**: The board is designed to minimize user intervention and is intended to be placed inside a Faraday cage for a controlled testing environment.
 
 <p align="center">
-  <img src="PCB_TOP.png" alt="Board Top View" width="45%" />
-  <img src="PCB_BOTTOM.png" alt="Board Bottom View" width="45%" />
+  <img src="Figures/PCB_TOP.png" alt="Board Top View" width="45%" />
+  <img src="Figures/PCB_BOTTOM.png" alt="Board Bottom View" width="45%" />
 </p>
 
 <p align="center">
